@@ -1,7 +1,7 @@
 
 # Plates & Cravings Food Demand Forecasting
 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/b5a58dfb-75f7-4864-91c2-94f2610bbfe0" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b5a58dfb-75f7-4864-91c2-94f2610bbfe0" />
 
 
 ### Table of contents
